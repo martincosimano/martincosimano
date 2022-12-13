@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/YngvJ1x.png" width="100%">
 
-Full-Stack Software Engineer from Argentina, I am motivated by the power of technology as a tool for positive change.
+<p align="center">Full-Stack Software Engineer from Argentina.</p>
 
 <h3 align="center">Technologies</h3>
 
