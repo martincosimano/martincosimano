@@ -1,5 +1,4 @@
-<img src="![image](https://user-images.githubusercontent.com/103332504/207455191-9ca8cf5e-d430-4a01-a973-1a5620cc61fa.png)
-" width="100%">
+<img src="https://i.imgur.com/i6Oyvum.jpg" width="100%">
 
 <p align="center">Full-Stack Software Engineer from Argentina.</p>
 
