@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/AdIhxOt.png" width="100%">
+<img src="https://i.imgur.com/5XZXow8.png" width="100%">
 
 <p align="center">Full-Stack Software Engineer from Argentina.</p>
 
