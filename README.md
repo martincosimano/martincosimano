@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/brMuN0Z.png" width="100%">
+<img src="https://i.imgur.com/BxnmZNe.png" width="100%">
 
 Full-Stack Software Engineer from Argentina, I am motivated by the power of technology as a tool for positive change.
 
