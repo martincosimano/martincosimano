@@ -2,7 +2,7 @@
 
 Full-Stack Software Engineer from Argentina, I am motivated by the power of technology as a tool for positive change.
 
-<h1 align="center">Technologies</h1>
+<h3 align="center">Technologies</h3>
 
 
 <p align="center">
