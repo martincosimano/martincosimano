@@ -1,6 +1,5 @@
 <img src="https://i.imgur.com/RsUio3M.jpg" width="100%">
 
-<p align="center">Full-Stack Software Engineer.</p>
 
 <h3 align="center">Technologies</h3>
 
