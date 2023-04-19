@@ -23,5 +23,5 @@
 <hr>
 
 <div align="center" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincosimano&hide=procfile&theme=dark&layout=compact&border_radius=0" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincosimano&hide=procfile&theme=material-palenight&layout=compact&border_radius=4.5" />
 </div>
