@@ -1,6 +1,7 @@
 <div align="center" />
-<img src="https://user-images.githubusercontent.com/103332504/233180651-9f2ce608-6f27-4f2a-a9e1-48a00e805506.png" />
+<img src="https://user-images.githubusercontent.com/103332504/233183154-b9c221d6-cae5-4e84-b37d-105c2100ecf4.png" />
 </div>
+
 
 
 <h3 align="center">Technologies</h3>
@@ -22,5 +23,5 @@
 <hr>
 
 <div align="center" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincosimano&hide=procfile&theme=react&layout=compact&border_radius=0" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincosimano&hide=procfile&theme=dark&layout=compact&border_radius=0" />
 </div>
