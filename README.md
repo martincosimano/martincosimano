@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/RsUio3M.jpg" width="100%">
+<div align="center" />
+<img src="https://user-images.githubusercontent.com/103332504/233180651-9f2ce608-6f27-4f2a-a9e1-48a00e805506.png" />
+</div>
 
 
 <h3 align="center">Technologies</h3>
@@ -16,3 +18,9 @@
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
+
+<hr>
+
+<div align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincosimano&hide=procfile&theme=react&layout=compact&border_radius=0" />
+</div>
