@@ -19,9 +19,3 @@
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
-
-<hr>
-
-<div align="center" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincosimano&hide=procfile&theme=material-palenight&layout=compact&border_radius=4.5" />
-</div>
