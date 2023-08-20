@@ -1,9 +1,3 @@
-<div align="center" />
-<img src="https://github.com/martincosimano/martincosimano/assets/103332504/c9e3fcdc-3712-43f4-b6d0-6b63f4f0f5e9" />
-</div>
-
-
-
 <h3 align="center">Technologies</h3>
 
 
